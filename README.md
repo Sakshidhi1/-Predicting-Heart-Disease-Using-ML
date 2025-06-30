@@ -1,6 +1,6 @@
 # -Predicting-Heart-Disease-Using-ML
 ## 💓 Can We Predict Heart Disease? A Simple Guide Using Decision Trees & Random Forests
-🔬 Machine Learning with Real-World Data | Beginner-Friendly Notebook
+🔬 Machine Learning with Real-World Data | Beginner-Friendly repository
 
 ![IMG-20250630-WA0004](https://github.com/user-attachments/assets/cb2a6885-11e2-4727-a6d0-87e3db99e39f)
 
